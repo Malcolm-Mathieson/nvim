@@ -9,6 +9,7 @@ return {
     keys = {
       { "<leader>mp", "<Plug>(md-render-preview)", desc = "Markdown preview (toggle)" },
       { "<leader>ms", "<cmd>vertical MdRender split<CR>", desc = "Open Split" },
+      { "<leader>mm", "<cmd>MarkdownPreview<CR>", desc = "Markdown Browser Render" },
     },
   },
 }
