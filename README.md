@@ -10,7 +10,8 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 ## My Edits
 
-For LaTeX editing, TeXpresso.vim is installed for a live preview.  
+For LaTeX editing, [TeXpresso.vim](https://github.com/let-def/texpresso.vim) is
+  installed for a live preview.  
 The live preview can be viewed with the keymap `<leader>ml`.  
 [TeXpresso](https://github.com/let-def/texpresso/blob/main/INSTALL.md) must be
   installed for this to work.
