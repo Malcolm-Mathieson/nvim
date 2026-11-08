@@ -14,4 +14,11 @@ For LaTeX editing, [TeXpresso.vim](https://github.com/let-def/texpresso.vim) is
   installed for a live preview.  
 The live preview can be viewed with the keymap `<leader>ml`.  
 [TeXpresso](https://github.com/let-def/texpresso/blob/main/INSTALL.md) must be
-  installed for this to work.
+  installed for this to work:  
+
+```zsh
+git clone https://github.com/let-def/texpresso.git
+cd texpresso
+make texpresso
+mv  build/texpresso ~/local/bin/texpresso
+```
